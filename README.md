@@ -67,7 +67,6 @@ TechHire-AI-Resume-Screening/
     └── validate_dataset.py
 ```
 
-*The structure above describes the intended repository layout. Confirm that every listed file exists before publishing.*
 
 ## Installation and Setup
 
