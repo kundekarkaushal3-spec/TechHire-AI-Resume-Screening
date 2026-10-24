@@ -218,3 +218,32 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# TechHire AI project-specific exclusions
+
+# Local environments and secrets
+.env.*
+!.env.example
+.envrc
+.streamlit/secrets.toml
+
+# Personal resumes and generated outputs
+resumes/
+output/
+
+# Local model files and caches
+models/
+model_cache/
+.cache/
+*.safetensors
+*.pt
+*.pth
+*.onnx
+
+# Temporary Python files
+app.py.before*
+app.py.pre_*
+*_backup.py
+*_backup
+__pycache__/
+

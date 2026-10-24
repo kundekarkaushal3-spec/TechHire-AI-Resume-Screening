@@ -1,0 +1,25 @@
+**Job Title:** AI/ML Engineer
+
+**Job Summary:**
+We are looking for an entry-level AI/ML Engineer with knowledge of Python, machine learning, deep learning, and natural language processing.
+
+**Required Skills:**
+- Python programming
+- Machine learning algorithms
+- Deep learning fundamentals
+- NLP and text processing
+- Scikit-learn
+- TensorFlow or PyTorch
+- Data preprocessing and model evaluation
+
+**Preferred Skills:**
+- Transformer models such as BERT
+- Computer vision
+- Git and model deployment
+
+**Responsibilities:**
+- Prepare and preprocess datasets.
+- Develop and evaluate machine learning models.
+- Experiment with deep learning techniques.
+- Build NLP-based applications.
+- Document experiments and communicate model results.

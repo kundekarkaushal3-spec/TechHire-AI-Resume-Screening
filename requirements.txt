@@ -1,0 +1,11 @@
+streamlit
+sentence-transformers
+scikit-learn
+pandas
+plotly
+PyPDF2
+nltk
+streamlit-option-menu
+streamlit-extras
+Pillow
+numpy

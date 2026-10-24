@@ -1,0 +1,45 @@
+Dataset file: synthetic_resume_profiles_100.csv
+Total rows: 100
+Total columns: 10
+
+1. REQUIRED COLUMN CHECK
+PASS: All 10 required columns are present.
+
+2. ROW COUNT CHECK
+PASS: Exactly 100 profiles found.
+
+3. MISSING VALUES CHECK
+PASS: No missing values in required columns.
+
+4. BLANK STRING CHECK
+PASS: No blank strings in required columns.
+
+5. CANDIDATE ID CHECK
+PASS: All candidate IDs are unique.
+
+6. DUPLICATE RESUME TEXT CHECK
+PASS: No exact duplicate resume texts.
+
+7. CATEGORY DISTRIBUTION
+  Data Science: 15
+  AI/ML Engineer: 15
+  DevOps Engineer: 14
+  Full Stack Developer: 14
+  Frontend Developer: 14
+  Backend Developer: 14
+  Cloud Engineer: 14
+Total distinct categories: 7
+PASS: Seven role categories found.
+
+8. DATA ORIGIN CHECK
+Origin values: ['synthetic']
+PASS: Every record is marked synthetic.
+
+9. EXPERIENCE RANGE CHECK
+PASS: Experience values range from 0 to 5 years.
+
+============================================================
+VALIDATION SUMMARY
+============================================================
+No issues detected by these automated checks.
+Note: This does not prove resume realism or research validity.
