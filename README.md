@@ -139,3 +139,18 @@ MCA — Artificial Intelligence and Machine Learning
 ## Disclaimer
 
 This project is developed for educational and research purposes. It is not a substitute for human review in recruitment.
+
+## Screenshots
+
+### 1. Main Dashboard
+![TechHire AI Dashboard](screenshots/dashboard.png)
+
+### 2. Resume Upload
+![Resume Upload Interface](screenshots/resume-upload.png)
+
+### 3. Candidate Analytics
+![Candidate Analytics Dashboard](screenshots/candidate-analytics.png)
+
+### 4. RAG-Based Resume Analysis
+![RAG Analysis and Evidence Report](screenshots/rag-analysis.png)
+
